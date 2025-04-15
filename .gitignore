@@ -1,5 +1,6 @@
 *bak*
 tmp/
+plugins/**
 
 # MacOS
 .DS_Store

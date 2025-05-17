@@ -4,7 +4,8 @@ Personal tmux configuration.
 
 ## Requirements
 
-- tmux 3.3 or later
+- tmux `>= 2.6`
+- tmux `>= 3.0` is recommended for the best experience
 
 ## Installation
 
